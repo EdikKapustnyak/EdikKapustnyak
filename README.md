@@ -1,20 +1,40 @@
-# Hi 👋 My name is Eduard
+# Hi, I’m Eduard
 
-## Fullstack Developer
-I’m a Fullstack Developer with a solid foundation in HTML, CSS, and JavaScript, and hands-on experience in building responsive, scalable, and user-focused web applications using React.js and Node.js. Passionate about continuous learning, I stay up to date with modern development trends and constantly expand my skill set beyond core technologies — including TypeScript, and Express. Proficient in English at a B2 level, I’m confident in both technical communication and collaboration within international teams. I also have experience leading a team in a collaborative project, which helped me develop strong leadership and teamwork skills in a real-world environment. I’m excited about new opportunities and ready to take on new and meaningful challenges in fullstack development.
+Junior Frontend Developer based in **Oslo, Norway**, building practical, user-focused web applications with **React** and **TypeScript**.
 
-- 🌍 I'm based in Norway, Oslo
-- ✉️ You can contact me at [zned003@gmail.com](mailto:zned003@gmail.com)
-- 🧠 I'm learning Next.js, Bootstrap
-- 🤝 I'm open to collaborating on interesting projects
+I’m looking for a junior frontend role in Oslo or a remote team where I can contribute, learn, and grow.
 
-## Skils
+## Featured project — Axis Digital
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" title="Express"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/></a>
-                    </p>
+I’m developing **Axis Digital**, an independent B2B SaaS brand. Its first product is an [inventory-management platform](https://table.axis-digital-org.com/) for **cafés, restaurants, retail, e-commerce, and light manufacturing**.
 
-## Socials
+**Product workflows**
+- Stock visibility across warehouses, including reserved and available quantities
+- Purchases, write-offs, and stocktaking
+- Low-stock alerts and audit-ready history
+- Role-based workflows for owners, admins, managers, and employees
+- AI-assisted waste analysis and local-event demand signals
 
-<p align="left"> <a href="https://github.com/EdikKapustnyak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
-<a href="https://www.linkedin.com/in/eduardkapustnyak/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+**My focus:** frontend development with React and TypeScript in a full-stack product environment.
+
+**Stack:** React · TypeScript · Node.js · MongoDB
+
+[Explore the live product →](https://table.axis-digital-org.com/)
+
+> The source code is private. I can walk through my contribution, technical decisions, and product workflows in an interview.
+
+## Selected work
+
+- [Axis Digital](https://table.axis-digital-org.com/) — inventory and operations platform.
+- [NoteHub](https://github.com/EdikKapustnyak/NoteHub) — TypeScript project.
+
+## Core stack
+
+React · TypeScript · JavaScript · Node.js · MongoDB · HTML · CSS · Git
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/eduardkapustnyak/
+- Email: zned003@gmail.com
+
+Languages: English · Norwegian · Ukrainian · Russian
